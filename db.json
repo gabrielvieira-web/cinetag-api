@@ -2,27 +2,51 @@
     "videos": [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+            "titulo": "Mais Perto do Que Nunca",
+            "capa": "https://imgur.com/bjdInMT.png",
+            "link": "https://www.youtube.com/embed/opmqrrGjsso"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "Só tu és Santo",
+            "capa": "https://imgur.com/57U3BXw.png",
+            "link": "https://www.youtube.com/embed/Kh14SNPaHco"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "Lindo és/Só quero ver Você",
+            "capa": "https://imgur.com/GxBxEsz.png",
+            "link": "https://www.youtube.com/embed/tjgFHeI9JGs"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-        }
+            "titulo": "Multidão de Sentimentos",
+            "capa": "https://imgur.com/EMScPri.png",
+            "link": "https://www.youtube.com/embed/Vi9lzqeyRvw"
+        },
+        {
+            "id": 5,
+            "titulo": "Bendirei",
+            "capa": "https://imgur.com/ahnw5Y4.png",
+            "link": "https://www.youtube.com/embed/USEganWkObg"
+        },
+        {
+            "id": 6,
+            "titulo": "O Dia que Será pra Sempre",
+            "capa": "https://imgur.com/lPqARwd.png",
+            "link": "https://www.youtube.com/embed/h9bIjOfONAM"
+        }, 
+        {
+            "id": 7,
+            "titulo": "Pra Onde Eu Irei",
+            "capa": "https://imgur.com/TomACch.png",
+            "link": "https://www.youtube.com/embed/Va8srvjwgAA"
+        }, 
+                {
+            "id": 8,
+            "titulo": "Isaias 9",
+            "capa": "https://imgur.com/KCiGw0P.png",
+            "link": "https://www.youtube.com/embed/XPxUfGfWtRA"
+        }, 
     ]
 }
